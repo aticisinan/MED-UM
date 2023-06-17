@@ -1,4 +1,4 @@
-# MEDIM
+# MEDIUM
 Medium klon sayfa çalışması
 
 ## Proje Amacı
